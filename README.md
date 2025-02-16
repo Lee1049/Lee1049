@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lee1049
-- 👀 I’m interested in Art, Powerlifting and support Manchester City
+- 👀 I’m interested in Art, Powerlifting and have supported Manchester City before it was fashionable.
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: I have been to over 10 European Cities 
 
